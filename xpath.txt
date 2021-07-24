@@ -1,0 +1,5 @@
+//*[@id="MortgagesNavItem"]/a
+
+//*[@id="Mortgagecalculators"]/span
+
+//*:contains(@id,"content_2")/section[1]/h1
